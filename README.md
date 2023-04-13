@@ -1,5 +1,6 @@
 <b> Hi there, <i>I'm Naman Arora</i></b> 👋
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" length=250px width=250px>
 
 <br>
@@ -31,8 +32,8 @@
 
 ### ✍️ Random Good Stuff
 <p>
-  <img width="65%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-  <img width="30%" src="https://readme-jokes.vercel.app/api" align="right"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <img src="https://readme-jokes.vercel.app/api" align="right"/>
 </p>
 
 ## <b> Visitors</b>
