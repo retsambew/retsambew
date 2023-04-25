@@ -18,6 +18,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retsambew&layout=compact&theme=radical)
 
 ## 📈 **My Stats**
+![LeetCode Stats](https://leetcode.card.workers.dev/retsambew?theme=dark&font=baloo&extension=activity)
 <br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=retsambew&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
