@@ -24,7 +24,7 @@
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=retsambew&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=retsambew&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=retsambew&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align = "center">
   
   [![Naman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=retsambew&bg_color=000000&color=ffffff&line=f500e4&point=f0f0f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
